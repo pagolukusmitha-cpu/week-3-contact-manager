@@ -191,11 +191,11 @@ Other   : 1
 # Screenshots
 
 ## sample inputs:
-1. sample_input_1 : ![Main Menu](screenshots/sample_input_1.png)
-2. sample_input_2 : ![Main Menu](screenshots/sample_input_2.png)
+1. sample_input_1 : (screenshots/sample_input_1.png)
+2. sample_input_2 : (screenshots/sample_input_2.png)
 
 ## sample_output: 
-sample_output : ![Main Menu](screenshots/sample_output.png)
+sample_output : (screenshots/sample_output.png)
 
    
 # Challenges & Solutions
