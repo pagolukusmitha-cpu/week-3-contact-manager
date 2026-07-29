@@ -188,6 +188,16 @@ Other   : 1
 
 ---
 
+# Screenshots
+
+## sample inputs:
+1. sample_input_1 : ![Main Menu](screenshots/sample_input_1.png)
+2. sample_input_2 : ![Main Menu](screenshots/sample_input_2.png)
+
+## sample_output: 
+sample_output : ![Main Menu](screenshots/sample_output.png)
+
+   
 # Challenges & Solutions
 
 ### Challenge 1: Handling Duplicate Contact Names
